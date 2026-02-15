@@ -1,0 +1,7 @@
+{
+  "repository": {
+    "description": "F5 XC web application firewall",
+    "homepage": "https://f5xc-salesdemos.github.io/waf/"
+  },
+  "topics": ["f5xc"]
+}
