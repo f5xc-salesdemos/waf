@@ -1,7 +1,7 @@
 # WAF
 
 [![GitHub Pages Deploy](https://github.com/f5xc-salesdemos/waf/actions/workflows/github-pages-deploy.yml/badge.svg)](https://github.com/f5xc-salesdemos/waf/actions/workflows/github-pages-deploy.yml)
-[![Repo Settings](https://github.com/f5xc-salesdemos/waf/actions/workflows/enforce-repo-settings.yml/badge.svg)](https://github.com/f5xc-salesdemos/waf/actions/workflows/enforce-repo-settings.yml)
+[![Repository Settings](https://github.com/f5xc-salesdemos/waf/actions/workflows/enforce-repo-settings.yml/badge.svg)](https://github.com/f5xc-salesdemos/waf/actions/workflows/enforce-repo-settings.yml)
 [![License](https://img.shields.io/github/license/f5xc-salesdemos/waf)](LICENSE)
 
 F5 XC web application firewall
